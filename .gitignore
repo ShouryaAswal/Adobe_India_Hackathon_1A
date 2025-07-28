@@ -1,0 +1,4 @@
+venv/
+sample-test_cases/input/file00.pdf
+sample-test_cases/input/.json
+__pycache__/
